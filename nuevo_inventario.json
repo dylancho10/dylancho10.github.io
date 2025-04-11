@@ -1,0 +1,48 @@
+[
+  {
+    "id": "001",
+    "nombre": "Pantalón Jeans",
+    "precio": 60000,
+    "stock": 30,
+    "categoria": "Ropa",
+    "disponible": true,
+    "tallas": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "detalles": {
+      "material": "Denim",
+      "color": "Azul Oscuro"
+    }
+  },
+  {
+    "id": "002",
+    "nombre": "Chaqueta Impermeable",
+    "precio": 120000,
+    "stock": 15,
+    "categoria": "Ropa",
+    "disponible": true,
+    "tallas": [
+      "M",
+      "L"
+    ],
+    "detalles": {
+      "material": "Nylon",
+      "color": "Rojo"
+    }
+  },
+  {
+    "id": "003",
+    "nombre": "Reloj Digital",
+    "precio": 85000,
+    "stock": 20,
+    "categoria": "Accesorios",
+    "disponible": true,
+    "detalles": {
+      "material": "Plástico",
+      "color": "Negro"
+    }
+  }
+]
